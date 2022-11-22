@@ -1,5 +1,5 @@
 [package]
-name = "matrix"
+name = "matrix-calc"
 version = "0.1.0"
 authors = ["TK Lai <iam@tklai.net>"]
 description = """
